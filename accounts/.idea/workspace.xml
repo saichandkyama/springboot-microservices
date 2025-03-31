@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="17456f59-4068-41e6-802d-fbdce458d031" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../loans/src/main/java/com/mylearning/loans/LoansApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../loans/src/main/java/com/mylearning/loans/LoansApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../loans/src/main/java/com/mylearning/loans/controller/LoansController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../loans/src/main/java/com/mylearning/loans/controller/LoansController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cards/src/main/java/com/mylearning/cards/CardsApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cards/src/main/java/com/mylearning/cards/CardsApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cards/src/main/java/com/mylearning/cards/controller/CardsController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cards/src/main/java/com/mylearning/cards/controller/CardsController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,7 +97,7 @@
       <workItem from="1741994699775" duration="3032000" />
       <workItem from="1742062028601" duration="14578000" />
       <workItem from="1742848761801" duration="4426000" />
-      <workItem from="1743370486980" duration="4728000" />
+      <workItem from="1743370486980" duration="4794000" />
     </task>
     <servers />
   </component>
