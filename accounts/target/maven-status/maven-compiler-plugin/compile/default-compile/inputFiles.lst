@@ -2,6 +2,7 @@
 /Users/saichandkyama/Documents/Learning/springboot-microservices/accounts/src/main/java/com/mylearning/accounts/audit/AuditAwareImpl.java
 /Users/saichandkyama/Documents/Learning/springboot-microservices/accounts/src/main/java/com/mylearning/accounts/constans/AccountsConstants.java
 /Users/saichandkyama/Documents/Learning/springboot-microservices/accounts/src/main/java/com/mylearning/accounts/controller/AccountsController.java
+/Users/saichandkyama/Documents/Learning/springboot-microservices/accounts/src/main/java/com/mylearning/accounts/dto/AccountsContactInfoDto.java
 /Users/saichandkyama/Documents/Learning/springboot-microservices/accounts/src/main/java/com/mylearning/accounts/dto/AccountsDto.java
 /Users/saichandkyama/Documents/Learning/springboot-microservices/accounts/src/main/java/com/mylearning/accounts/dto/CustomerDto.java
 /Users/saichandkyama/Documents/Learning/springboot-microservices/accounts/src/main/java/com/mylearning/accounts/dto/ErrorResponseDto.java

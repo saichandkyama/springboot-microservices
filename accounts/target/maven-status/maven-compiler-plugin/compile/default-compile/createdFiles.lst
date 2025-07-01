@@ -17,4 +17,5 @@ com/mylearning/accounts/controller/AccountsController.class
 com/mylearning/accounts/dto/ResponseDto.class
 com/mylearning/accounts/entity/BaseEntity.class
 com/mylearning/accounts/AccountsApplication.class
+com/mylearning/accounts/dto/AccountsContactInfoDto.class
 com/mylearning/accounts/entity/Customer.class
