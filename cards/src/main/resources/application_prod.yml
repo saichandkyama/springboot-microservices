@@ -1,0 +1,16 @@
+spring:
+  config:
+    activate:
+      on-profile: "prod"
+
+build:
+  version: "3.0"
+
+cards:
+  message: "Welcome to SSP Bank Cards related Prod APIs "
+  contactDetails:
+    name: "Saichand Kyama - Developer"
+    email: "saichandkyama@gmail.com"
+  onCallSupport:
+    - (555) 555-1234
+    - (555) 523-1345

@@ -1,0 +1,16 @@
+spring:
+  config:
+    activate:
+      on-profile: "prod"
+
+build:
+  version: "3.0"
+
+loans:
+  message: "Welcome to SSP Bank Loans related Prod APIs "
+  contactDetails:
+    name: "John Hickman - Product Owner"
+    email: "john.hickman@sspbank.com"
+  onCallSupport:
+    - (333) 555-1234
+    - (222) 523-1345
