@@ -1,0 +1,11 @@
+build:
+  version: "10.0"
+
+cards:
+  message: "Welcome to SSP Bank Cards related QA APIs "
+  contactDetails:
+    name: "Saichand Kyama - Developer"
+    email: "saichandkyama@gmail.com"
+  onCallSupport:
+    - (555) 555-1234
+    - (555) 523-1345

@@ -1,13 +1,8 @@
-spring:
-  config:
-    activate:
-      on-profile: "qa"
-
 build:
-  version: "10.0"
+  version: "3.0"
 
-cards:
-  message: "Welcome to SSP Bank Cards related QA APIs "
+accounts:
+  message: "Welcome to SSP Bank accounts related local APIs "
   contactDetails:
     name: "Saichand Kyama - Developer"
     email: "saichandkyama@gmail.com"

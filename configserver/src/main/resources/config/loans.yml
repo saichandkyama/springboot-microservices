@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+loans:
+  message: "Welcome to SSP Bank Loans related local APIs "
+  contactDetails:
+    name: "Saichand Kyama - Developer"
+    email: "saichandkyama@gmail.com"
+  onCallSupport:
+    - (333) 555-1234
+    - (222) 523-1345
