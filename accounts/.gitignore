@@ -1,0 +1,10 @@
+target/
+build/
+*.log
+*.iml
+*.class
+.mvn/
+.idea/
+.DS_Store
+*.jar
+*.war
