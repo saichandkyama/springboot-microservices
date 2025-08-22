@@ -128,7 +128,7 @@
 				<version>3.4.5</version>
 				<configuration>
 					<to>
-						<image>saichandkyama/${project.artifactId}:v2</image>
+						<image>saichandkyama/${project.artifactId}:v3</image>
 					</to>
 				</configuration>
 			</plugin>
