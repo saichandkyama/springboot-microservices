@@ -48,4 +48,10 @@ info:
     description: "SSP Bank Accounts Application"
     version: "1.0.0"
 
+logging:
+  level:
+    com:
+      mylearning:
+        accounts: DEBUG
+
 

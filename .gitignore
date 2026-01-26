@@ -1,0 +1,60 @@
+# IntelliJ IDEA
+/.idea/
+*.iml
+*.iws
+
+# VS Code
+/.vscode/
+
+# Maven
+/target/
+!/.mvn/wrapper/maven-wrapper.jar
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Build / binary
+*.class
+*.jar
+*.war
+*.ear
+
+# Logs
+*.log
+hs_err_pid*
+
+# macOS
+.DS_Store
+
+# Environment
+.env
+
+# OS generated files
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.swp
+
+# Others
+/out/
+
+# Ignore IDE workspace or local settings
+/local.properties
+
+# Gradle (if any)
+.gradle/
+
+# Docker
+docker-compose.override.yml
+
+# Ignore generated test reports
+*/target/surefire-reports/
+
+# Ignore deployment and packaging
+dist/
+
+# keep this file tracked
+!.gitignore
