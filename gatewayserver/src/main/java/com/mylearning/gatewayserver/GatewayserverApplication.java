@@ -32,7 +32,9 @@ public class GatewayserverApplication {
 					.route(p -> p
 							.path("/sspbank/accounts/**")
 							.filters( f -> f.rewritePath("/sspbank/accounts/(?<segment>.*)","/${segment}")
-									.addResponseHeader("X-Response-Time", LocalDateTime.now().toString()))
+									.addResponseHeader("X-Response-Time", LocalDateTime.now().toString())
+									.circuitBreaker(config -> config.setName("accountsCircuitBreaker")
+											.setFallbackUri("forward:/contactSupport")))
 							.uri("lb://ACCOUNTS"))
 					.route(p -> p
 							.path("/sspbank/loans/**")
