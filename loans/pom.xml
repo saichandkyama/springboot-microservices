@@ -116,7 +116,7 @@
 				<version>3.4.5</version>
 				<configuration>
 					<to>
-						<image>saichandkyama/${project.artifactId}:v9</image>
+						<image>saichandkyama/${project.artifactId}:v10</image>
 					</to>
 				</configuration>
 			</plugin>
